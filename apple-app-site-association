@@ -1,0 +1,15 @@
+{
+"applinks": {
+        "apps": [],
+        "details": [
+            {
+                "appID": "teamID.bundleId”,
+                "paths": ["/deaplink","/wwdc/news/","*"]
+            },
+            {
+                "appID": "ABCD1234.com.apple.wwdc",
+                "paths": [ "*" ]
+            }
+        ]
+    } 
+}
